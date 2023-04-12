@@ -1,7 +1,7 @@
 # wneyin.github.io
 Creating a Test Github Web Page.
 Project Portfolios:
-- Provisioned 3 Tier Architectured 
+- Provisioned 3 Tier Architectured.
 - Configured the Full CI/CD Pipeline utilizing Jenkins, Maven, Docker, EKS in AWS environment
 - Prepared Technical Evaluation Reports
 
